@@ -1,6 +1,6 @@
 # Hey, I’m Vooskie 👋
 
-Welcome to my little corner of GitHub! I'm the Co-Owner and CTO of [Many Hat Group](https://manyhatservices.com.au), and I also run [Zentari](https://zentari.com.au) — a Minecraft minigames network with a big focus on automation and polish.
+Welcome to my little corner of GitHub! I'm the Co-Owner and CTO of [Many Hat Group](https://manyhatservices.com.au), and I also run [Zentari](https://zentari.com.au) — a Minecraft minigames network Coming soon.
 
 ---
 
@@ -16,11 +16,17 @@ If it can be wired, coded, or built, I’m probably poking at it.
 
 ---
 
-### 💻 Tech I Like Using
+💻 Tech I Like Using
 
-- `cmd`, PowerShell & Python (CLI is life)
-- Web tech when needed
-- Some Go and Linux magic when the mood strikes
+Command line & scripting: cmd, PowerShell, Python (CLI is life)
+
+Some Go and Linux magic when the mood strikes
+
+Virtualization & container tech: Proxmox, LXC, ESXi, Hyper-V
+
+Embedded & IoT: Arduino, ESP series
+
+Windows Server administration
 
 ---
 
