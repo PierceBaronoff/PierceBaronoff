@@ -18,15 +18,11 @@ If it can be wired, coded, or built, I’m probably poking at it.
 
 💻 Tech I Like Using
 
-Command line & scripting: cmd, PowerShell, Python (CLI is life)
-
-Some Go and Linux magic when the mood strikes
-
-Virtualization & container tech: Proxmox, LXC, ESXi, Hyper-V
-
-Embedded & IoT: Arduino, ESP series
-
-Windows Server administration
+- Command line & scripting: cmd, PowerShell, Python (CLI is life)
+- Some Go and Linux magic when the mood strikes
+- Virtualization & container tech: Proxmox, LXC, ESXi, Hyper-V
+- Embedded & IoT: Arduino, ESP series
+- Windows Server administration
 
 ---
 
